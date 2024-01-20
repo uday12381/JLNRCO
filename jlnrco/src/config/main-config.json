@@ -1,0 +1,183 @@
+{
+  "home": {
+    "logo": "",
+    "navBar": {
+      "contact": "+91-123456789",
+      "email": "jlnrco@gmail.com",
+      "items": [
+        [
+          {
+            "title": "home.navbar.contact",
+            "subItems": [],
+            "redirectTo": ""
+          },
+          {
+            "title": "home.navbar.call",
+            "subItems": [],
+            "redirectTo": ""
+          },
+          {
+            "title": "home.navbar.our_team",
+            "subItems": [],
+            "redirectTo": ""
+          },
+          {
+            "title": "home.navbar.news_and_articles",
+            "subItems": [],
+            "redirectTo": ""
+          },
+          {
+            "title": "home.navbar.career",
+            "subItems": [],
+            "redirectTo": ""
+          },
+          {
+            "title": "home.navbar.lms",
+            "subItems": [],
+            "redirectTo": ""
+          },
+          {
+            "title": "home.navbar.contact_us",
+            "subItems": [],
+            "redirectTo": ""
+          }
+        ],
+        [
+          {
+            "title": "home.navbar.home",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.start_a_business",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.registrations",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.nri_services",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.compliance",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.reports",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.transfer_pricing",
+            "subItems": [],
+            "redirectTo": "/"
+          },
+          {
+            "title": "home.navbar.outsourcing",
+            "subItems": [],
+            "redirectTo": "/"
+          }
+        ]
+      ]
+    },
+    "img": "",
+    "ourServices": {
+      "items": [
+        {
+          "title": "home.our_services.audit_assurance.title",
+          "description": "home.our_services.audit_assurance.description",
+          "redirectTo": "/",
+          "img": "https://fosburyconsulting.com/wp-content/uploads/2021/01/audit-assurance-1024x1024.jpg"
+        },
+        {
+          "title": "home.our_services.income_tax.title",
+          "description": "home.our_services.income_tax.description",
+          "redirectTo": "/",
+          "img": "https://th.bing.com/th/id/OIP.8VaMbv502yBCSff4YNMU9wHaFu?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "home.our_services.gst.title",
+          "description": "home.our_services.gst.description",
+          "redirectTo": "/",
+          "img": "https://th.bing.com/th/id/OIP.10H-3VtF9VS0n3ziB0X4WgHaE8?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "home.our_services.accounting_payroll.title",
+          "description": "home.our_services.accounting_payroll.description",
+          "redirectTo": "/",
+          "img": "https://th.bing.com/th/id/OIP.BP4D0pJSLclHhhUat22uwQHaE8?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "home.our_services.report_documents.title",
+          "description": "home.our_services.report_documents.description",
+          "redirectTo": "/",
+          "img": "https://thumbs.dreamstime.com/b/stack-report-paper-documents-business-desk-papers-annual-files-document-written-presented-offices-concept-soft-focus-147957752.jpg"
+        },
+        {
+          "title": "home.our_services.nri_services.title",
+          "description": "home.our_services.nri_services.description",
+          "redirectTo": "/",
+          "img": "https://camantra.com/wp-content/uploads/2020/09/NRI-Services_629406869-min-768x480.jpg"
+        },
+        {
+          "title": "home.our_services.setting_up_new_company.title",
+          "description": "home.our_services.setting_up_new_company.description",
+          "redirectTo": "/",
+          "img": "https://th.bing.com/th/id/OIP.V74AdOeHf3x5hp7PopLAPAHaDq?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "home.our_services.registrations.title",
+          "description": "home.our_services.registrations.description",
+          "redirectTo": "/",
+          "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201704/registrations-647_041117125544.jpg"
+        }
+      ]
+    },
+    "footer": {
+      "orgName": "org_name",
+      "phone": "+91-123456789",
+      "address": "Bangalore",
+      "skype": "jlnrco",
+      "quickLinks": {
+        "title": "footer.quicklinks.title",
+        "items": [
+          {
+            "title": "footer.quicklinks.simplified_laws",
+            "redirectTo": ""
+          },
+          {
+            "title": "footer.quicklinks.income_tax_india",
+            "redirectTo": ""
+          },
+          {
+            "title": "footer.quicklinks.gst_in_india",
+            "redirectTo": ""
+          }
+        ]
+      },
+      "usage": {
+        "title": "footer.usage.title",
+        "items": [
+          {
+            "title": "footer.usage.terms_and_conditions",
+            "redirectTo": ""
+          },
+          {
+            "title": "footer.usage.privacy_policy",
+            "redirectTo": ""
+          },
+          {
+            "title": "footer.usage.disclaimer_policy",
+            "redirectTo": ""
+          }
+        ]
+      }
+    }
+  }
+}
