@@ -1,6 +1,6 @@
 {
   "name": "jlnrco",
-  "homepage": "https://www.jlnrco.com/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
